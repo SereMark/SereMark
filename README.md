@@ -4,10 +4,13 @@
 ---
 
 ## 🚀 About Me  
-I'm a **third-year Computer Science student** at **Szegedi Tudományegyetem TTIK** (University of Szeged), majoring in **Programtervező Informatikus**. My passion lies at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Robotics**, where I strive to bridge the gap between software intelligence and physical systems.
+I’m a **third-year Computer Science student** at **Szegedi Tudományegyetem TTIK** (University of Szeged), majoring in **Programtervező Informatikus**. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Robotics**, aiming to create intelligent systems that seamlessly integrate software and hardware.
 
-- 🧠 My **thesis**: Designing a **hybrid chess robot** combining neural networks, Monte Carlo tree search, and opening book integration. ♟️🤖  
-- 🌍 Future Goals: Become an **AI Engineer** focused on creating intelligent systems that drive impactful real-world applications.
+- 🧠 **Thesis**: Developing a **hybrid chess robot** combining neural networks, Monte Carlo tree search, and opening book integration. ♟️🤖  
+- 💻 **Professional Experience**:  
+  - **Intern**: One year of hands-on experience as a full-stack developer.  
+  - **Junior Web Developer**: Continued as a **C# full-stack developer** with a focus on building and maintaining dynamic web applications.  
+- 🌍 **Future Goals**: To become an **AI Engineer**, applying cutting-edge AI technologies in robotics and real-world applications.  
 
 ---
 
@@ -20,16 +23,16 @@ I'm a **third-year Computer Science student** at **Szegedi Tudományegyetem TTIK
 - **Version Control**: Git, GitHub  
 
 ### 📚 **Currently Exploring**  
-- Deep Learning frameworks  
+- Advanced Deep Learning frameworks  
 - Robotics programming & simulation tools  
-- Advanced algorithms for AI-driven decision-making systems  
+- Algorithms for AI-driven decision-making systems  
 
 ---
 
 ## 🌱 Learning Journey  
-- 💡 **Expanding Expertise**: Deepening my understanding of **AI architectures**, **reinforcement learning**, and **robotic systems integration**.  
-- 📖 **Hands-on Projects**: Working on real-world applications that combine AI and robotics to create meaningful solutions in healthcare, automotive, and beyond.  
-- 🌍 **Collaborations & Networking**: Participating in **academic exchanges** like Erasmus+ and CEEPUS to connect with peers and professionals globally.  
+- 💡 **Expanding Expertise**: Exploring **AI architectures**, **reinforcement learning**, and **robotic systems integration**.  
+- 📖 **Projects**: Building real-world applications that combine AI and robotics for meaningful solutions in healthcare, automotive, and other industries.  
+- 🌍 **Networking**: Engaging in **academic exchanges** like Erasmus+ and CEEPUS to connect with peers and professionals globally.  
 
 ---
 
@@ -37,9 +40,9 @@ I'm a **third-year Computer Science student** at **Szegedi Tudományegyetem TTIK
 I’m open to:  
 - **AI-driven robotics projects**  
 - **Autonomous systems development**  
-- **Real-world applications of AI in healthcare, automotive, or any impactful industry**  
+- **AI applications in impactful industries**  
 
-If you're working on something exciting or need a collaborator, let's connect! 🚀  
+If you’re working on something innovative or need a collaborator, feel free to reach out! 🚀  
 
 ---
 
@@ -50,4 +53,4 @@ If you're working on something exciting or need a collaborator, let's connect! �
 ---
 
 ### 🎯 Fun Fact  
-I’ve been fascinated by AI since childhood and dream of building systems that bring AI to life in physical, interactive forms. Let’s make that dream a reality together! 🌌
+I’ve been passionate about AI since childhood and dream of bringing intelligent systems to life in physical, interactive forms. Let’s turn ideas into reality! 🌌
