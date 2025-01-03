@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **third-year Computer Science student** at **Szegedi Tudományegyetem TTIK** (University of Szeged), majoring in **Programtervező Informatikus**. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Robotics**, aiming to create intelligent systems that seamlessly integrate software and hardware.
+I’m a **third-year Computer Science student** at **Szegedi Tudományegyetem TTIK** (University of Szeged), majoring in **Software Engineering**. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Robotics**, aiming to create intelligent systems that seamlessly integrate software and hardware.
 
 - 🧠 **Thesis**: Developing a **hybrid chess robot** combining neural networks, Monte Carlo tree search, and opening book integration. ♟️🤖  
 - 💻 **Professional Experience**:  
