@@ -1,5 +1,5 @@
 # 👋 Hello World, I’m **Sere Gergő Márk** (@SereMark)!  
-🌟 **Past Full Stack Developer | AI / Robotics Explorer | Computer Science Student**
+🌟 **Past Full Stack Developer | AI / Robotics (Computer Science) Student**
 
 ---
 
