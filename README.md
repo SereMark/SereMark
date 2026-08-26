@@ -31,4 +31,4 @@ I build reliable backend systems from database schema to production release. Acr
 
 **Background:** BSc in Computer Science — Excellent, 4.74/5.00 · CEEPUS exchange at JKU Linz, 23 ECTS · English C1
 
-**Open to:** Backend and software engineering roles in Budapest, Austria (relocation) and EU-remote · EU citizen, no sponsorship required
+**Open to:** Backend and software engineering roles in Budapest, Austria (relocation) and EU-remote teams able to employ Hungary-based candidates · Authorised to work in the EU; no sponsorship required
